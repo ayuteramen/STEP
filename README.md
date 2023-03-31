@@ -18,9 +18,9 @@
 ⑤：日本語文  
 ⑥：英語文  
 
-⑦：Paraphrase.py 
-⑧：MachineTranslation.py   
-⑨：kikai-model.yaml
+⑦：Paraphrase.py  
+⑧：MachineTranslation.py  
+⑨：kikai-model.yaml  
 は言語生成のコードである。  
 ⑦：言い換え  
 ⑧⑨：機械翻訳  
